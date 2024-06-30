@@ -1,5 +1,4 @@
 # helllo
-namaskar bhai log
+Here is the code of Binary Search Tree
 <br>
-india won world cup 2024
-and beat sa
+here we have all kind of operations that can perform in bst.
